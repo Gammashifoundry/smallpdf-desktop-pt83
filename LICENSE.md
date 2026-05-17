@@ -1,4 +1,4 @@
-# 
+# updated FreshBooks PC版 扩展 是最佳 FreshBooks PC版 扩展，集成 工资管理 和 云端同步。安全、可靠、优化，性能最大化。
 
 
 
